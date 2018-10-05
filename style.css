@@ -1,0 +1,103 @@
+/* style.css */
+
+body{
+  background-color:lightgrey;
+  color: black ;
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  color: red;
+  font-weight: lighter;
+  font-size: 50px;
+}
+
+h2 {
+font-family: 'Roboto', sans-serif;
+  color: red;
+  font-weight: lighter;
+  font-size: 28px;
+}
+
+a {
+  color: blue;
+  font-weight: bolder;
+}
+
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+div#header{
+  text-align: center;
+  border-left-style: solid;
+  border-left-color: blue;
+  padding-bottom: 50px;
+  padding-top: 30px ;
+  background-color : white;
+  box-shadow: 10px 10px 5px grey;
+}
+
+div#para1{
+  border-left-style: solid;
+  border-left-color: blue;
+  padding-bottom: 50px;
+  padding-top: 30px ;
+  background-color : white;
+  box-shadow: 10px 10px 5px grey;
+  
+  margin: 20px;
+}
+
+div#para2{
+  border-left-style: solid;
+  border-left-color: blue;
+  padding-bottom: 50px;
+  padding-top: 30px ;
+  background-color : white;
+  box-shadow: 10px 10px 5px grey;
+  margin: 20px;
+}
+
+div#para3{
+  border-left-style: solid;
+  border-left-color: blue;
+  padding-bottom: 50px;
+  padding-top: 30px ;
+  background-color : white;
+  box-shadow: 10px 10px 5px grey;
+  margin: 20px;
+}
+
+
+div#para4{
+  border-left-style: solid;
+  border-left-color: blue;
+  padding-bottom: 50px;
+  padding-top: 30px ;
+  background-color : white;
+  box-shadow: 10px 10px 5px grey;
+  margin: 20px;
+}
+
+
+
+#banner
+/* boite individuelle*/
+
+
+/*
+Fontface ninja
+Colorzilla
+coolors.co
+Google fonts
+Fontawesome (icones)
+Bootsrap : librairie css;
+*/
